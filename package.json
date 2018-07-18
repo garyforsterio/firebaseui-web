@@ -6,6 +6,7 @@
     "dist/firebaseui.js",
     "dist/firebaseui.css",
     "dist/npm.js",
+    "dist/npm__ja.js",
     "dist/index.d.ts",
     "dist/externs",
     "LICENSE",
